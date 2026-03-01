@@ -1,0 +1,20 @@
+module and_16(a,b,c);
+input[15:0] a,b;
+output[15:0] c;
+and x1(c[0],a[0],b[0]);
+and x2(c[1],a[1],b[1]);
+and x3(c[2],a[2],b[2]);
+and x4(c[3],a[3],b[3]);
+and x5(c[4],a[4],b[4]);
+and x6(c[5],a[5],b[5]);
+and x7(c[6],a[6],b[6]);
+and x8(c[7],a[7],b[7]);
+and x9(c[8],a[8],b[8]);
+and x10(c[9],a[9],b[9]);
+and x11(c[10],a[10],b[10]);
+and x12(c[11],a[11],b[11]);
+and x13(c[12],a[12],b[12]);
+and x14(c[13],a[13],b[13]);
+and x15(c[14],a[14],b[14]);
+and x16(c[15],a[15],b[15]);
+endmodule

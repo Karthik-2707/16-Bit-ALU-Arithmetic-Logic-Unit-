@@ -1,0 +1,20 @@
+module not_16(a,c);
+input[15:0] a;
+output[15:0] c;
+not x1(c[0],a[0]);
+not x2(c[1],a[1]);
+not x3(c[2],a[2]);
+not x4(c[3],a[3]);
+not x5(c[4],a[4]);
+not x6(c[5],a[5]);
+not x7(c[6],a[6]);
+not x8(c[7],a[7]);
+not x9(c[8],a[8]);
+not x10(c[9],a[9]);
+not x11(c[10],a[10]);
+not x12(c[11],a[11]);
+not x13(c[12],a[12]);
+not x14(c[13],a[13]);
+not x15(c[14],a[14]);
+not x16(c[15],a[15]);
+endmodule

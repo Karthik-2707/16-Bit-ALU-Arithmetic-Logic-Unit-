@@ -1,0 +1,20 @@
+# Compiled Object Files
+*.o
+
+# Temporary Files
+*.tmp
+
+# Verilog Output
+*.vcd
+
+# Simulation Files
+*.df.*
+*.log
+*.sdf
+
+# Tools
+*.syn
+*.sby
+
+# Backup Files
+*~
